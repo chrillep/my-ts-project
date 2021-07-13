@@ -1,4 +1,7 @@
 # ʕ •́؈•̀) `workers-typescript-template`
+[![DeepSource](https://deepsource.io/gh/chrillep/my-ts-project.svg/?label=active+issues&show_trend=true&token=rb5EFUdloAKv57x9P0HENQ6b)](https://deepsource.io/gh/chrillep/my-ts-project/?ref=repository-badge)
+[![Maintainability](https://api.codeclimate.com/v1/badges/be5255cf2225c094bd6f/maintainability)](https://codeclimate.com/github/chrillep/my-ts-project/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/be5255cf2225c094bd6f/test_coverage)](https://codeclimate.com/github/chrillep/my-ts-project/test_coverage)
 
 A batteries included template for kick starting a TypeScript Cloudflare worker project.
 
