@@ -1,0 +1,11 @@
+name = "my-ts-project"
+type = "javascript"
+zone_id = "5dfb466146f7eaf05bea47abe5a6cd7c"
+account_id = "abfc3644fd95044f11c1c7666def6022"
+route = ""
+workers_dev = true
+
+[build]
+command = "npm install && npm run build"
+[build.upload]
+format = "service-worker"
