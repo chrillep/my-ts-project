@@ -1,4 +1,5 @@
 # ʕ •́؈•̀) `workers-typescript-template`
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8a2956a6646d4dae96df7de04fead0e4)](https://app.codacy.com/gh/chrillep/my-ts-project?utm_source=github.com&utm_medium=referral&utm_content=chrillep/my-ts-project&utm_campaign=Badge_Grade_Settings)
 [![DeepSource](https://deepsource.io/gh/chrillep/my-ts-project.svg/?label=active+issues&show_trend=true&token=rb5EFUdloAKv57x9P0HENQ6b)](https://deepsource.io/gh/chrillep/my-ts-project/?ref=repository-badge)
 [![Maintainability](https://api.codeclimate.com/v1/badges/be5255cf2225c094bd6f/maintainability)](https://codeclimate.com/github/chrillep/my-ts-project/maintainability)
