@@ -7,6 +7,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/chrillep/my-ts-project/badge)](https://www.codefactor.io/repository/github/chrillep/my-ts-project)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/chrillep/my-ts-project.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/chrillep/my-ts-project/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/chrillep/my-ts-project.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/chrillep/my-ts-project/context:javascript)
+[![codecov](https://codecov.io/gh/chrillep/my-ts-project/branch/master/graph/badge.svg?token=UxN04aS7tV)](https://codecov.io/gh/chrillep/my-ts-project)
 
 A batteries included template for kick starting a TypeScript Cloudflare worker project.
 
